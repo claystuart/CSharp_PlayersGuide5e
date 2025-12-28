@@ -15,4 +15,6 @@ A Walkthrough of the "C# Player's Guide, Fifth Edition" by RB Whitaker.
 1. The Triangle Farmer (p53): calculate area of triangle
 1. The Four Sisters and the Duckbear (p56): Using modulo operator
 1. The Dominion of Kings (p57): Multiple inputs
+### Level 8: Console Input (Advanced)
+1. Defense of Consolas (p68): Text game to surround Blimp attacking city
 
