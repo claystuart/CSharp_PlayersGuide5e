@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lvl4_TheThingNamer3000", "L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lvl6_ClaysConverter", "Lvl6_ClaysConverter\Lvl6_ClaysConverter.csproj", "{BCD3EFBC-800F-4E91-8CB6-A8A4B5AE01AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lvl7_Math", "Lvl7_Math\Lvl7_Math.csproj", "{21F1C86B-E43D-4331-B6D6-F8B53017F81B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{BCD3EFBC-800F-4E91-8CB6-A8A4B5AE01AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCD3EFBC-800F-4E91-8CB6-A8A4B5AE01AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCD3EFBC-800F-4E91-8CB6-A8A4B5AE01AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21F1C86B-E43D-4331-B6D6-F8B53017F81B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21F1C86B-E43D-4331-B6D6-F8B53017F81B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21F1C86B-E43D-4331-B6D6-F8B53017F81B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21F1C86B-E43D-4331-B6D6-F8B53017F81B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
