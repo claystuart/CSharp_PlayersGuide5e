@@ -1,4 +1,6 @@
-﻿Console.WriteLine("What kind of thing are we talking about?");
+﻿// Description: Read a noun and an adjective and Output it. Also, employ Comments and a Bug Fix - page 31
+
+Console.WriteLine("What kind of thing are we talking about?");
 string item = Console.ReadLine()!; // '!' suppresses null warning
 Console.WriteLine("How would you describe it? Big? Azure? Tattered?");
 string description = Console.ReadLine()!; // '!' suppresses null warning
