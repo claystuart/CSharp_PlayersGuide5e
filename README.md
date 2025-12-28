@@ -12,4 +12,7 @@ A Walkthrough of the "C# Player's Guide, Fifth Edition" by RB Whitaker.
 ### Level 6: C# Types - substitute project (convert string -> int)
 1. Clay's Converter - Convert string->int with multiple methods
 ### Level 7: Math
-1. The Triangle Farmer - calculate area of triangle
+1. The Triangle Farmer (p57): calculate area of triangle
+1. The Four Sisters and the Duckbear (p56): Using modulo operator
+1. The Dominion of Kings (p57): Multiple inputs
+
