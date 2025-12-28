@@ -19,5 +19,5 @@ A Walkthrough of the "C# Player's Guide, Fifth Edition" by RB Whitaker.
 1. Defense of Consolas (p68): Text game to surround Blimp attacking city
 ### Level 9: Conditionals
 1. Repairing the Clocktower (p75): "Tick/Tock" on even/odd numbers.
-1. Watchtower (p78): Calculate coordinates for origin (0,0) in middle of 3x3 grid.
+1. Watchtower (p78): Calculate coordinates for (x,y) from 3x3 grid.
 
