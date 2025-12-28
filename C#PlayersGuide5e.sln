@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36811.4 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lvl3_Consolas_and_Telim", "Lvl3_Consolas_and_Telim\Lvl3_Consolas_and_Telim.csproj", "{F08209CF-E913-4265-8553-9105A43249C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lvl4_TheThingNamer3000", "Lvl4_TheThingNamer3000\Lvl4_TheThingNamer3000.csproj", "{3797B69E-F203-4FAE-A948-BC13BC6F70A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F08209CF-E913-4265-8553-9105A43249C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F08209CF-E913-4265-8553-9105A43249C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F08209CF-E913-4265-8553-9105A43249C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3797B69E-F203-4FAE-A948-BC13BC6F70A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3797B69E-F203-4FAE-A948-BC13BC6F70A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3797B69E-F203-4FAE-A948-BC13BC6F70A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3797B69E-F203-4FAE-A948-BC13BC6F70A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
