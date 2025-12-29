@@ -20,6 +20,9 @@ A Walkthrough of the "C# Player's Guide, Fifth Edition" by RB Whitaker.
 ### Level 9: Conditionals
 1. Repairing the Clocktower (p75): "Tick/Tock" on even/odd numbers.
 1. Watchtower (p78): Calculate coordinates for (x,y) from 3x3 grid.
+### Level 10: Switches
+1. Buying Inventory (p82): Use Switch to display Inventory prices
+1. Discounted Inventory (p83): Ask user their name and apply 50% discount if name==user
 
 ## Lessons Learned for [dotnet cli](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-new)
 1. `dotnet new console -n <new projct name>` - create new project
