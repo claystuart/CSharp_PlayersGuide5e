@@ -3,7 +3,6 @@
 // 2. "Discounted Inventory" - Modify "Buying Inventory" to ask username for possible discount
 
 string[] items = ["Rope", "Torches", "Climbing Equipment", "Clean Water", "Machete", "Canoe", "Food Supplies"];
-int[] prices = [10, 15, 25, 1, 20, 200, 1];
 
 Console.WriteLine("The following items are available:");
 for (int x = 0; x < items.Length; x++)
@@ -33,7 +32,7 @@ int price_listing = choice switch
 // Challenge 2: Discount
 Console.Write("Enter name: ");
 input = Console.ReadLine()!;
-if (input == "Gandolf")
+if (input.ToLower() == "gandolf")
     price_listing = Math.Clamp((price_listing / 2), 1, 200);
 
 Console.WriteLine($"{items[choice - 1]} cost(s) {price_listing} gold.");
