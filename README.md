@@ -21,3 +21,12 @@ A Walkthrough of the "C# Player's Guide, Fifth Edition" by RB Whitaker.
 1. Repairing the Clocktower (p75): "Tick/Tock" on even/odd numbers.
 1. Watchtower (p78): Calculate coordinates for (x,y) from 3x3 grid.
 
+## Lessons Learned for [dotnet cli](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-new)
+1. `dotnet new console -n <new projct name>` - create new project
+1. `dotnet sln list` - list all projects
+1. `dotnet run` - runs project in current directory
+1. `dotnet run --project <project name> (e.g. helloWorld)` - run specific project
+
+
+
+
