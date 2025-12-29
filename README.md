@@ -27,6 +27,10 @@ A Walkthrough of the "C# Player's Guide, Fifth Edition" by RB Whitaker.
 1. `dotnet run` - runs project in current directory
 1. `dotnet run --project <project name> (e.g. helloWorld)` - run specific project
 
+## Lessons learned Syncronizing code in Git
+1. If I make a new project is VSCode and push it to Github, I must still add it as a new (existing) 
+project in Visual Studio using `Add -> Existing Project...` in Solution Explorer.
+
 
 
 
