@@ -8,7 +8,7 @@ LawsOfFreach();
 // Min and Average program using foreach loop
 static void LawsOfFreach()
 {
-    int[] array = { 4, 51, -7, 13, -99, 15, -8, 45, 90 };
+    int[] array = [4, 51, -7, 13, -99, 15, -8, 45, 90];
     
     // Min()
     int smallest = array[0];
