@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lvl12_Arrays", "Lvl12_Array
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lvl13_Methods", "Lvl13_Methods\Lvl13_Methods.csproj", "{3691EA93-FE74-4FEC-AFF8-AD495BBB7C59}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lvl14_MemoryExplanation", "Lvl14_MemoryExplanation\Lvl14_MemoryExplanation.csproj", "{3F6DF239-6348-46F8-8C7A-1FA56D45FAED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,18 @@ Global
 		{3691EA93-FE74-4FEC-AFF8-AD495BBB7C59}.Release|x64.Build.0 = Release|Any CPU
 		{3691EA93-FE74-4FEC-AFF8-AD495BBB7C59}.Release|x86.ActiveCfg = Release|Any CPU
 		{3691EA93-FE74-4FEC-AFF8-AD495BBB7C59}.Release|x86.Build.0 = Release|Any CPU
+		{3F6DF239-6348-46F8-8C7A-1FA56D45FAED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F6DF239-6348-46F8-8C7A-1FA56D45FAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F6DF239-6348-46F8-8C7A-1FA56D45FAED}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3F6DF239-6348-46F8-8C7A-1FA56D45FAED}.Debug|x64.Build.0 = Debug|Any CPU
+		{3F6DF239-6348-46F8-8C7A-1FA56D45FAED}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3F6DF239-6348-46F8-8C7A-1FA56D45FAED}.Debug|x86.Build.0 = Debug|Any CPU
+		{3F6DF239-6348-46F8-8C7A-1FA56D45FAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F6DF239-6348-46F8-8C7A-1FA56D45FAED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F6DF239-6348-46F8-8C7A-1FA56D45FAED}.Release|x64.ActiveCfg = Release|Any CPU
+		{3F6DF239-6348-46F8-8C7A-1FA56D45FAED}.Release|x64.Build.0 = Release|Any CPU
+		{3F6DF239-6348-46F8-8C7A-1FA56D45FAED}.Release|x86.ActiveCfg = Release|Any CPU
+		{3F6DF239-6348-46F8-8C7A-1FA56D45FAED}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

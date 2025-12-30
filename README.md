@@ -32,6 +32,10 @@ A Walkthrough of the "C# Player's Guide, Fifth Edition" by RB Whitaker.
 ### Level 13: Methods
 1. Taking a Number (p106): Helper methods with arguments
 1. Countdown (p107): Countdown from 10 to 1 using recursion instead of iteration
+### Level 14: How Memory Works
+1. Manticore Challenge (p124-125 & 249 "The Robot Pilot"): Fight the Manticore game incorporating later
+challenge ("The Robot Pilot") on p249 that asks us to use a random number generator to set the Manticore's starting position.
+
 
 ## Lessons Learned for [dotnet cli](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-new)
 1. `dotnet new console -n <new projct name>` - create new project
@@ -39,6 +43,7 @@ A Walkthrough of the "C# Player's Guide, Fifth Edition" by RB Whitaker.
 1. `dotnet run` - runs project in current directory
 1. `dotnet run --project <project name> (e.g. helloWorld)` - run specific project
 1. `dotnet sln add <new_project.csproj` - add new project to solution (e.g. `dotnet sln add .\Lvl10_Switches\Lvl10_Switches.csproj`) from main Solution Directory
+
 ## Lessons learned Syncronizing code in Git
 1. If I make a new project is VSCode and push it to Github, I must still add it as a new (existing) 
 project in Visual Studio using `Add -> Existing Project...` in Solution Explorer.
