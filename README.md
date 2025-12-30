@@ -26,6 +26,9 @@ A Walkthrough of the "C# Player's Guide, Fifth Edition" by RB Whitaker.
 1. ### Level 11: Loops
 1. The Prototype (p88): Hi-Lo game
 1. The Magic Cannon (p89): Fizz-Buzz
+1. ### Level 12: Arrays
+1. The Replicator of D'To (p94): Array Copy program
+1. The Laws of Freach (p95): Rewrite Min() and Average() to use foreach
 
 ## Lessons Learned for [dotnet cli](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-new)
 1. `dotnet new console -n <new projct name>` - create new project
