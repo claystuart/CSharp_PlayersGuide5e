@@ -28,7 +28,10 @@ A Walkthrough of the "C# Player's Guide, Fifth Edition" by RB Whitaker.
 1. The Magic Cannon (p89): Fizz-Buzz
 1. ### Level 12: Arrays
 1. The Replicator of D'To (p94): Array Copy program
-1. The Laws of Freach (p95): Rewrite Min() and Average() to use foreach
+1. The Laws of Freach (p95): Rewrite Min() and Average() to use foreach 
+1. ### Level 13: Methods
+1. Taking a Number (p106): Helper methods with arguments
+1. Countdown (p107): Countdown from 10 to 1 using recursion instead of iteration
 
 ## Lessons Learned for [dotnet cli](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-new)
 1. `dotnet new console -n <new projct name>` - create new project
