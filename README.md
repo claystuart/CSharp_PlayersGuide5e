@@ -35,7 +35,8 @@ A Walkthrough of the "C# Player's Guide, Fifth Edition" by RB Whitaker.
 ### Level 14: How Memory Works
 1. Manticore Challenge (p124-125 & 249 "The Robot Pilot"): Fight the Manticore game incorporating later
 challenge ("The Robot Pilot") on p249 that asks us to use a random number generator to set the Manticore's starting position.
-
+### Level 16: Enums
+1. Simula's Test (p135): Simulate a locked/unlocked/open/closed treasure chest.
 
 ## Lessons Learned for [dotnet cli](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-new)
 1. `dotnet new console -n <new projct name>` - create new project

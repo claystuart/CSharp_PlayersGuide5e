@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lvl13_Methods", "Lvl13_Meth
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lvl14_MemoryExplanation", "Lvl14_MemoryExplanation\Lvl14_MemoryExplanation.csproj", "{3F6DF239-6348-46F8-8C7A-1FA56D45FAED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lvl16_Enums", "Lvl16_Enums\Lvl16_Enums.csproj", "{FB9D35BA-3FAF-45DC-8571-722151D15FE3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -167,6 +169,18 @@ Global
 		{3F6DF239-6348-46F8-8C7A-1FA56D45FAED}.Release|x64.Build.0 = Release|Any CPU
 		{3F6DF239-6348-46F8-8C7A-1FA56D45FAED}.Release|x86.ActiveCfg = Release|Any CPU
 		{3F6DF239-6348-46F8-8C7A-1FA56D45FAED}.Release|x86.Build.0 = Release|Any CPU
+		{FB9D35BA-3FAF-45DC-8571-722151D15FE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB9D35BA-3FAF-45DC-8571-722151D15FE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB9D35BA-3FAF-45DC-8571-722151D15FE3}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FB9D35BA-3FAF-45DC-8571-722151D15FE3}.Debug|x64.Build.0 = Debug|Any CPU
+		{FB9D35BA-3FAF-45DC-8571-722151D15FE3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FB9D35BA-3FAF-45DC-8571-722151D15FE3}.Debug|x86.Build.0 = Debug|Any CPU
+		{FB9D35BA-3FAF-45DC-8571-722151D15FE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB9D35BA-3FAF-45DC-8571-722151D15FE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB9D35BA-3FAF-45DC-8571-722151D15FE3}.Release|x64.ActiveCfg = Release|Any CPU
+		{FB9D35BA-3FAF-45DC-8571-722151D15FE3}.Release|x64.Build.0 = Release|Any CPU
+		{FB9D35BA-3FAF-45DC-8571-722151D15FE3}.Release|x86.ActiveCfg = Release|Any CPU
+		{FB9D35BA-3FAF-45DC-8571-722151D15FE3}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
