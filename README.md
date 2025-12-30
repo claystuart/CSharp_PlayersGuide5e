@@ -23,6 +23,9 @@ A Walkthrough of the "C# Player's Guide, Fifth Edition" by RB Whitaker.
 ### Level 10: Switches
 1. Buying Inventory (p82): Use Switch to display Inventory prices
 1. Discounted Inventory (p83): Ask user their name and apply 50% discount if name==user
+1. ### Level 11: Loops
+1. The Prototype (p88): Hi-Lo game
+1. The Magic Cannon (p89): Fizz-Buzz
 
 ## Lessons Learned for [dotnet cli](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-new)
 1. `dotnet new console -n <new projct name>` - create new project
