@@ -23,13 +23,13 @@ A Walkthrough of the "C# Player's Guide, Fifth Edition" by RB Whitaker.
 ### Level 10: Switches
 1. Buying Inventory (p82): Use Switch to display Inventory prices
 1. Discounted Inventory (p83): Ask user their name and apply 50% discount if name==user
-1. ### Level 11: Loops
+### Level 11: Loops
 1. The Prototype (p88): Hi-Lo game
 1. The Magic Cannon (p89): Fizz-Buzz
-1. ### Level 12: Arrays
+### Level 12: Arrays
 1. The Replicator of D'To (p94): Array Copy program
 1. The Laws of Freach (p95): Rewrite Min() and Average() to use foreach 
-1. ### Level 13: Methods
+### Level 13: Methods
 1. Taking a Number (p106): Helper methods with arguments
 1. Countdown (p107): Countdown from 10 to 1 using recursion instead of iteration
 
