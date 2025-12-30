@@ -1,7 +1,7 @@
 # C#PlayersGuide5e
-A Walkthrough of the "C# Player's Guide, Fifth Edition" by RB Whitaker.
+A Walkthrough of the Challenges from <ins>The C# Player's Guide, Fifth Edition</ins> by RB Whitaker.
 
-## Projects
+## Challenges:
 ### Level 1: Intro to .Net - n/a
 ### Level 2: Intro to Visual Studio - n/a
 ### Level 3: Compiling "Hello World"
@@ -35,6 +35,7 @@ A Walkthrough of the "C# Player's Guide, Fifth Edition" by RB Whitaker.
 ### Level 14: How Memory Works
 1. Manticore Challenge (p124-125 & 249 "The Robot Pilot"): Fight the Manticore game incorporating later
 challenge ("The Robot Pilot") on p249 that asks us to use a random number generator to set the Manticore's starting position.
+### Level 15: Object Oriented Theory - n/a
 ### Level 16: Enums
 1. Simula's Test (p135): Simulate a locked/unlocked/open/closed treasure chest.
 
