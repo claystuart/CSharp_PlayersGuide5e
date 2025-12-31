@@ -38,6 +38,8 @@ challenge ("The Robot Pilot") on p249 that asks us to use a random number genera
 ### Level 15: Object Oriented Theory - n/a
 ### Level 16: Enums
 1. Simula's Test (p135): Simulate a locked/unlocked/open/closed treasure chest.
+### Level 17: Tuples
+1. Simula's Soup (p143): Use three (3) enums to construct a tuple.
 
 ## Lessons Learned for [dotnet cli](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-new)
 1. `dotnet new console -n <new projct name>` - create new project
